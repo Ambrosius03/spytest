@@ -1,0 +1,1000 @@
+﻿id;kode_provinsi;nama_provinsi;wilayah_pengadilan_agama;faktor_penyebab;jumlah_perceraian;satuan;tahun
+1;32;JAWA BARAT;BANDUNG;MABUK;11;KASUS;2017
+2;32;JAWA BARAT;BANDUNG;JUDI;1;KASUS;2017
+3;32;JAWA BARAT;BANDUNG;MENINGGALKAN SALAH SATU;504;KASUS;2017
+4;32;JAWA BARAT;BANDUNG;POLIGAMI;112;KASUS;2017
+5;32;JAWA BARAT;BANDUNG;KEKERASAN DALAM RUMAH TANGGA;39;KASUS;2017
+6;32;JAWA BARAT;BANDUNG;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;3102;KASUS;2017
+7;32;JAWA BARAT;BANDUNG;KAWIN PAKSA;338;KASUS;2017
+8;32;JAWA BARAT;BANDUNG;EKONOMI;1313;KASUS;2017
+9;32;JAWA BARAT;BEKASI;ZINA;3;KASUS;2017
+10;32;JAWA BARAT;BEKASI;MABUK;5;KASUS;2017
+11;32;JAWA BARAT;BEKASI;MENINGGALKAN SALAH SATU;124;KASUS;2017
+12;32;JAWA BARAT;BEKASI;DIHUKUM PENJARA;2;KASUS;2017
+13;32;JAWA BARAT;BEKASI;POLIGAMI;122;KASUS;2017
+14;32;JAWA BARAT;BEKASI;KEKERASAN DALAM RUMAH TANGGA;13;KASUS;2017
+15;32;JAWA BARAT;BEKASI;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;245;KASUS;2017
+16;32;JAWA BARAT;BEKASI;MURTAD;9;KASUS;2017
+17;32;JAWA BARAT;BEKASI;EKONOMI;120;KASUS;2017
+18;32;JAWA BARAT;BOGOR;MENINGGALKAN SALAH SATU;135;KASUS;2017
+19;32;JAWA BARAT;BOGOR;DIHUKUM PENJARA;1;KASUS;2017
+20;32;JAWA BARAT;BOGOR;POLIGAMI;1;KASUS;2017
+21;32;JAWA BARAT;BOGOR;KEKERASAN DALAM RUMAH TANGGA;5;KASUS;2017
+22;32;JAWA BARAT;BOGOR;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;102;KASUS;2017
+23;32;JAWA BARAT;BOGOR;EKONOMI;92;KASUS;2017
+24;32;JAWA BARAT;BOGOR;LAIN-LAIN;191;KASUS;2017
+25;32;JAWA BARAT;CIAMIS;MABUK;1;KASUS;2017
+26;32;JAWA BARAT;CIAMIS;MENINGGALKAN SALAH SATU;32;KASUS;2017
+27;32;JAWA BARAT;CIAMIS;KEKERASAN DALAM RUMAH TANGGA;1;KASUS;2017
+28;32;JAWA BARAT;CIAMIS;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;373;KASUS;2017
+29;32;JAWA BARAT;CIAMIS;EKONOMI;3619;KASUS;2017
+30;32;JAWA BARAT;CIAMIS;LAIN-LAIN;232;KASUS;2017
+31;32;JAWA BARAT;CIANJUR;MENINGGALKAN SALAH SATU;386;KASUS;2017
+32;32;JAWA BARAT;CIANJUR;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;215;KASUS;2017
+33;32;JAWA BARAT;CIANJUR;EKONOMI;620;KASUS;2017
+34;32;JAWA BARAT;CIANJUR;LAIN-LAIN;47;KASUS;2017
+35;32;JAWA BARAT;CIBADAK;MADAT;1;KASUS;2017
+36;32;JAWA BARAT;CIBADAK;MENINGGALKAN SALAH SATU;169;KASUS;2017
+37;32;JAWA BARAT;CIBADAK;DIHUKUM PENJARA;1;KASUS;2017
+38;32;JAWA BARAT;CIBADAK;POLIGAMI;1;KASUS;2017
+39;32;JAWA BARAT;CIBADAK;KEKERASAN DALAM RUMAH TANGGA;3;KASUS;2017
+40;32;JAWA BARAT;CIBADAK;CACAT BADAN;1;KASUS;2017
+41;32;JAWA BARAT;CIBADAK;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;566;KASUS;2017
+42;32;JAWA BARAT;CIBADAK;MURTAD;10;KASUS;2017
+43;32;JAWA BARAT;CIBADAK;EKONOMI;277;KASUS;2017
+44;32;JAWA BARAT;CIBINONG;ZINA;5;KASUS;2017
+45;32;JAWA BARAT;CIBINONG;MABUK;20;KASUS;2017
+46;32;JAWA BARAT;CIBINONG;MADAT;3;KASUS;2017
+47;32;JAWA BARAT;CIBINONG;JUDI;8;KASUS;2017
+48;32;JAWA BARAT;CIBINONG;MENINGGALKAN SALAH SATU;509;KASUS;2017
+49;32;JAWA BARAT;CIBINONG;KEKERASAN DALAM RUMAH TANGGA;10;KASUS;2017
+50;32;JAWA BARAT;CIBINONG;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;940;KASUS;2017
+51;32;JAWA BARAT;CIBINONG;EKONOMI;763;KASUS;2017
+52;32;JAWA BARAT;CIBINONG;LAIN-LAIN;1583;KASUS;2017
+53;32;JAWA BARAT;CIKARANG;MENINGGALKAN SALAH SATU;642;KASUS;2017
+54;32;JAWA BARAT;CIKARANG;DIHUKUM PENJARA;11;KASUS;2017
+55;32;JAWA BARAT;CIKARANG;KEKERASAN DALAM RUMAH TANGGA;154;KASUS;2017
+56;32;JAWA BARAT;CIKARANG;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;772;KASUS;2017
+57;32;JAWA BARAT;CIKARANG;EKONOMI;242;KASUS;2017
+58;32;JAWA BARAT;CIMAHI;MABUK;30;KASUS;2017
+59;32;JAWA BARAT;CIMAHI;JUDI;26;KASUS;2017
+60;32;JAWA BARAT;CIMAHI;MENINGGALKAN SALAH SATU;1563;KASUS;2017
+61;32;JAWA BARAT;CIMAHI;POLIGAMI;50;KASUS;2017
+62;32;JAWA BARAT;CIMAHI;KEKERASAN DALAM RUMAH TANGGA;48;KASUS;2017
+63;32;JAWA BARAT;CIMAHI;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;3969;KASUS;2017
+64;32;JAWA BARAT;CIMAHI;EKONOMI;3216;KASUS;2017
+65;32;JAWA BARAT;CIMAHI;LAIN-LAIN;342;KASUS;2017
+66;32;JAWA BARAT;CIREBON;ZINA;121;KASUS;2017
+67;32;JAWA BARAT;CIREBON;MABUK;56;KASUS;2017
+68;32;JAWA BARAT;CIREBON;MADAT;68;KASUS;2017
+69;32;JAWA BARAT;CIREBON;JUDI;49;KASUS;2017
+70;32;JAWA BARAT;CIREBON;MENINGGALKAN SALAH SATU;100;KASUS;2017
+71;32;JAWA BARAT;CIREBON;DIHUKUM PENJARA;2;KASUS;2017
+72;32;JAWA BARAT;CIREBON;POLIGAMI;32;KASUS;2017
+73;32;JAWA BARAT;CIREBON;KEKERASAN DALAM RUMAH TANGGA;60;KASUS;2017
+74;32;JAWA BARAT;CIREBON;CACAT BADAN;2;KASUS;2017
+75;32;JAWA BARAT;CIREBON;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;147;KASUS;2017
+76;32;JAWA BARAT;CIREBON;KAWIN PAKSA;2;KASUS;2017
+77;32;JAWA BARAT;CIREBON;MURTAD;2;KASUS;2017
+78;32;JAWA BARAT;CIREBON;EKONOMI;91;KASUS;2017
+79;32;JAWA BARAT;CIREBON;LAIN-LAIN;40;KASUS;2017
+80;32;JAWA BARAT;DEPOK;ZINA;29;KASUS;2017
+81;32;JAWA BARAT;DEPOK;MABUK;30;KASUS;2017
+82;32;JAWA BARAT;DEPOK;MADAT;10;KASUS;2017
+83;32;JAWA BARAT;DEPOK;JUDI;28;KASUS;2017
+84;32;JAWA BARAT;DEPOK;MENINGGALKAN SALAH SATU;575;KASUS;2017
+85;32;JAWA BARAT;DEPOK;DIHUKUM PENJARA;46;KASUS;2017
+86;32;JAWA BARAT;DEPOK;POLIGAMI;26;KASUS;2017
+87;32;JAWA BARAT;DEPOK;KEKERASAN DALAM RUMAH TANGGA;196;KASUS;2017
+88;32;JAWA BARAT;DEPOK;CACAT BADAN;2;KASUS;2017
+89;32;JAWA BARAT;DEPOK;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;1414;KASUS;2017
+90;32;JAWA BARAT;DEPOK;MURTAD;16;KASUS;2017
+91;32;JAWA BARAT;DEPOK;EKONOMI;894;KASUS;2017
+92;32;JAWA BARAT;GARUT;MENINGGALKAN SALAH SATU;351;KASUS;2017
+93;32;JAWA BARAT;GARUT;DIHUKUM PENJARA;9;KASUS;2017
+94;32;JAWA BARAT;GARUT;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;375;KASUS;2017
+95;32;JAWA BARAT;GARUT;EKONOMI;2040;KASUS;2017
+96;32;JAWA BARAT;GARUT;LAIN-LAIN;465;KASUS;2017
+97;32;JAWA BARAT;INDRAMAYU;MENINGGALKAN SALAH SATU;279;KASUS;2017
+98;32;JAWA BARAT;INDRAMAYU;DIHUKUM PENJARA;1;KASUS;2017
+99;32;JAWA BARAT;INDRAMAYU;POLIGAMI;103;KASUS;2017
+100;32;JAWA BARAT;INDRAMAYU;KEKERASAN DALAM RUMAH TANGGA;17;KASUS;2017
+101;32;JAWA BARAT;INDRAMAYU;CACAT BADAN;2;KASUS;2017
+102;32;JAWA BARAT;INDRAMAYU;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;527;KASUS;2017
+103;32;JAWA BARAT;INDRAMAYU;KAWIN PAKSA;34;KASUS;2017
+104;32;JAWA BARAT;INDRAMAYU;EKONOMI;5302;KASUS;2017
+105;32;JAWA BARAT;KARAWANG;MENINGGALKAN SALAH SATU;413;KASUS;2017
+106;32;JAWA BARAT;KARAWANG;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;1077;KASUS;2017
+107;32;JAWA BARAT;KARAWANG;EKONOMI;635;KASUS;2017
+108;32;JAWA BARAT;KARAWANG;LAIN-LAIN;443;KASUS;2017
+109;32;JAWA BARAT;KOTA BANJAR;MENINGGALKAN SALAH SATU;59;KASUS;2017
+110;32;JAWA BARAT;KOTA BANJAR;POLIGAMI;4;KASUS;2017
+111;32;JAWA BARAT;KOTA BANJAR;KEKERASAN DALAM RUMAH TANGGA;9;KASUS;2017
+112;32;JAWA BARAT;KOTA BANJAR;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;267;KASUS;2017
+113;32;JAWA BARAT;KOTA BANJAR;KAWIN PAKSA;1;KASUS;2017
+114;32;JAWA BARAT;KOTA BANJAR;MURTAD;36;KASUS;2017
+115;32;JAWA BARAT;KOTA BANJAR;EKONOMI;295;KASUS;2017
+116;32;JAWA BARAT;KOTA BANJAR;LAIN-LAIN;27;KASUS;2017
+117;32;JAWA BARAT;KOTA TASIKMALAYA;MADAT;1;KASUS;2017
+118;32;JAWA BARAT;KOTA TASIKMALAYA;JUDI;1;KASUS;2017
+119;32;JAWA BARAT;KOTA TASIKMALAYA;MENINGGALKAN SALAH SATU;58;KASUS;2017
+120;32;JAWA BARAT;KOTA TASIKMALAYA;DIHUKUM PENJARA;2;KASUS;2017
+121;32;JAWA BARAT;KOTA TASIKMALAYA;POLIGAMI;15;KASUS;2017
+122;32;JAWA BARAT;KOTA TASIKMALAYA;KEKERASAN DALAM RUMAH TANGGA;13;KASUS;2017
+123;32;JAWA BARAT;KOTA TASIKMALAYA;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;592;KASUS;2017
+124;32;JAWA BARAT;KOTA TASIKMALAYA;KAWIN PAKSA;1;KASUS;2017
+125;32;JAWA BARAT;KOTA TASIKMALAYA;MURTAD;2;KASUS;2017
+126;32;JAWA BARAT;KOTA TASIKMALAYA;EKONOMI;1032;KASUS;2017
+127;32;JAWA BARAT;KUNINGAN;ZINA;33;KASUS;2017
+128;32;JAWA BARAT;KUNINGAN;MABUK;3;KASUS;2017
+129;32;JAWA BARAT;KUNINGAN;MENINGGALKAN SALAH SATU;179;KASUS;2017
+130;32;JAWA BARAT;KUNINGAN;KEKERASAN DALAM RUMAH TANGGA;50;KASUS;2017
+131;32;JAWA BARAT;KUNINGAN;CACAT BADAN;1;KASUS;2017
+132;32;JAWA BARAT;KUNINGAN;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;482;KASUS;2017
+133;32;JAWA BARAT;KUNINGAN;MURTAD;1;KASUS;2017
+134;32;JAWA BARAT;KUNINGAN;EKONOMI;1719;KASUS;2017
+135;32;JAWA BARAT;MAJALENGKA;MABUK;5;KASUS;2017
+136;32;JAWA BARAT;MAJALENGKA;JUDI;4;KASUS;2017
+137;32;JAWA BARAT;MAJALENGKA;MENINGGALKAN SALAH SATU;295;KASUS;2017
+138;32;JAWA BARAT;MAJALENGKA;DIHUKUM PENJARA;1;KASUS;2017
+139;32;JAWA BARAT;MAJALENGKA;POLIGAMI;38;KASUS;2017
+140;32;JAWA BARAT;MAJALENGKA;KEKERASAN DALAM RUMAH TANGGA;14;KASUS;2017
+141;32;JAWA BARAT;MAJALENGKA;CACAT BADAN;2;KASUS;2017
+142;32;JAWA BARAT;MAJALENGKA;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;424;KASUS;2017
+143;32;JAWA BARAT;MAJALENGKA;EKONOMI;1844;KASUS;2017
+144;32;JAWA BARAT;MAJALENGKA;LAIN-LAIN;1538;KASUS;2017
+145;32;JAWA BARAT;PURWAKARTA;MABUK;4;KASUS;2017
+146;32;JAWA BARAT;PURWAKARTA;MADAT;1;KASUS;2017
+147;32;JAWA BARAT;PURWAKARTA;JUDI;1;KASUS;2017
+148;32;JAWA BARAT;PURWAKARTA;MENINGGALKAN SALAH SATU;328;KASUS;2017
+149;32;JAWA BARAT;PURWAKARTA;DIHUKUM PENJARA;1;KASUS;2017
+150;32;JAWA BARAT;PURWAKARTA;POLIGAMI;3;KASUS;2017
+151;32;JAWA BARAT;PURWAKARTA;KEKERASAN DALAM RUMAH TANGGA;34;KASUS;2017
+152;32;JAWA BARAT;PURWAKARTA;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;477;KASUS;2017
+153;32;JAWA BARAT;PURWAKARTA;MURTAD;35;KASUS;2017
+154;32;JAWA BARAT;PURWAKARTA;EKONOMI;407;KASUS;2017
+155;32;JAWA BARAT;SUBANG;MENINGGALKAN SALAH SATU;511;KASUS;2017
+156;32;JAWA BARAT;SUBANG;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;696;KASUS;2017
+157;32;JAWA BARAT;SUBANG;EKONOMI;957;KASUS;2017
+158;32;JAWA BARAT;SUBANG;LAIN-LAIN;1161;KASUS;2017
+159;32;JAWA BARAT;SUKABUMI;ZINA;1;KASUS;2017
+160;32;JAWA BARAT;SUKABUMI;MABUK;3;KASUS;2017
+161;32;JAWA BARAT;SUKABUMI;MENINGGALKAN SALAH SATU;124;KASUS;2017
+162;32;JAWA BARAT;SUKABUMI;POLIGAMI;1;KASUS;2017
+163;32;JAWA BARAT;SUKABUMI;KEKERASAN DALAM RUMAH TANGGA;10;KASUS;2017
+164;32;JAWA BARAT;SUKABUMI;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;315;KASUS;2017
+165;32;JAWA BARAT;SUKABUMI;EKONOMI;56;KASUS;2017
+166;32;JAWA BARAT;SUMBER;MENINGGALKAN SALAH SATU;2288;KASUS;2017
+167;32;JAWA BARAT;SUMBER;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;1753;KASUS;2017
+168;32;JAWA BARAT;SUMBER;EKONOMI;2807;KASUS;2017
+169;32;JAWA BARAT;SUMEDANG;MABUK;52;KASUS;2017
+170;32;JAWA BARAT;SUMEDANG;JUDI;35;KASUS;2017
+171;32;JAWA BARAT;SUMEDANG;MENINGGALKAN SALAH SATU;270;KASUS;2017
+172;32;JAWA BARAT;SUMEDANG;DIHUKUM PENJARA;1;KASUS;2017
+173;32;JAWA BARAT;SUMEDANG;POLIGAMI;51;KASUS;2017
+174;32;JAWA BARAT;SUMEDANG;KEKERASAN DALAM RUMAH TANGGA;5;KASUS;2017
+175;32;JAWA BARAT;SUMEDANG;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;962;KASUS;2017
+176;32;JAWA BARAT;SUMEDANG;EKONOMI;2407;KASUS;2017
+177;32;JAWA BARAT;TASIKMALAYA;MENINGGALKAN SALAH SATU;180;KASUS;2017
+178;32;JAWA BARAT;TASIKMALAYA;KEKERASAN DALAM RUMAH TANGGA;1;KASUS;2017
+179;32;JAWA BARAT;TASIKMALAYA;CACAT BADAN;2;KASUS;2017
+180;32;JAWA BARAT;TASIKMALAYA;PERSELISIHAN & PERTENGKARAN TERUS MENERUS;21;KASUS;2017
+181;32;JAWA BARAT;TASIKMALAYA;EKONOMI;3083;KASUS;2017
+182;32;JAWA BARAT;TASIKMALAYA;LAIN-LAIN;158;KASUS;2017
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
