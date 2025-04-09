@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import matplotlib.pyplot as plt
 
 # Load data
 data = pd.read_csv('data-perceraian.csv', sep=';')
