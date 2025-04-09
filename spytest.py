@@ -29,16 +29,16 @@ else:
 
 
 # Visualisasi jumlah perceraian per tahun
-st.subheader(f'Jumlah Perceraian di {provinsi} per Tahun')
-fig, ax = plt.subplots()
-data_filtered.groupby('tahun')['jumlah_perceraian'].sum().plot(kind='bar', ax=ax)
-plt.ylabel('Jumlah Perceraian')
-plt.xlabel('Tahun')
-st.pyplot(fig)
+ st.subheader(f'Jumlah Perceraian di {provinsi} per Tahun')
+ fig, ax = plt.subplots()
+ data_filtered.groupby('tahun')['jumlah_perceraian'].sum().plot(kind='bar', ax=ax)
+ plt.ylabel('Jumlah Perceraian')
+ plt.xlabel('Tahun')
+ st.pyplot(fig)
 
 # Visualisasi penyebab perceraian
-st.subheader(f'Penyebab Perceraian di {provinsi}')
-fig2, ax2 = plt.subplots()
-data_filtered['faktor_penyebab'].value_counts().plot(kind='barh', ax=ax2)
-plt.xlabel('Jumlah Kasus')
-st.pyplot(fig2)
+ st.subheader(f'Penyebab Perceraian di {provinsi}')
+ fig2, ax2 = plt.subplots()
+ data_filtered['faktor_penyebab'].value_counts().plot(kind='barh', ax=ax2)
+ plt.xlabel('Jumlah Kasus')
+ st.pyplot(fig2)
