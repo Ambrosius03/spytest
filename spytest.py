@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 import matplotlib
+
 matplotlib.use('Agg')
 # Load data
 data = pd.read_csv('data-perceraian.csv', sep=';')
