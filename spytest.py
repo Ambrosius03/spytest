@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 # Load data
-data = pd.read_excel('data-perceraian.xlsx', sep=';')
+data = pd.read_excel('data-perceraian.xlsx')
 if data.isnull().values.any():
     st.warning('Data mengandung nilai kosong. Harap periksa kembali dataset Anda.')
 
