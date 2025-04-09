@@ -24,7 +24,7 @@ data_filtered = data[data['nama_provinsi'] == provinsi]
 
 # Visualisasi jumlah perceraian per tahun
 st.subheader(f'Jumlah Perceraian di {provinsi} per Tahun')
-fig, ax = plt.subplots():
+fig, ax = plt.subplots()
 data_filtered.groupby('tahun')['jumlah_perceraian'].sum().plot(kind='bar', ax=ax)
 plt.ylabel('Jumlah Perceraian')
 plt.xlabel('Tahun')
