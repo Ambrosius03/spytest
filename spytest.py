@@ -29,7 +29,6 @@ else:
 
 
 # Visualisasi jumlah perceraian per tahun
-ax.set_title(f'Jumlah Perceraian di {provinsi} per Tahun')
 st.subheader(f'Jumlah Perceraian di {provinsi} per Tahun')
 fig, ax = plt.subplots()
 data_filtered.groupby('tahun')['jumlah_perceraian'].sum().plot(kind='bar', ax=ax)
